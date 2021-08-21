@@ -4,3 +4,11 @@ Custom_Embedded_GUI Sample Test (C++ / C# (Native, Xamarin.Forms) / JavaScreipt)
 ===============
 
 Target OS Device & Target Device For GUI Build Test: Custom (Yocto) & Raspberry Pi 3 (B, B+) / Raspberry Pi 4 or Higher Version   
+
+[UI Design Test Programming]
+
+- Swipe Scrolling
+
+- Carousel Scrolling
+
+etc more..
