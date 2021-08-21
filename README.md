@@ -15,8 +15,8 @@ etc more..
 
 ===============
 
-Yocto Build
+How to build Yocto 
 
-- HOB 
+- HOB (UI)
 
-- Command Line
+- Command Line (Bitbake)
