@@ -15,7 +15,7 @@ Target OS Device & Target Device For Application GUI Build Test: Custom (Yocto) 
 
 - Carousel Scrolling
 
-etc more..
+more etc..
 
 ===============
 
