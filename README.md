@@ -1,5 +1,9 @@
 # Custom_Embedded_GUI
-Custom_Embedded_GUI Sample Test (C++ / C# (Native, Xamarin.Forms) / JavaScreipt) in C
+Custom_Embedded Device GUI Sample Test [C++ (Native) / C# (.Net Framework  / Xamarin.Forms), JavaScreipt in C
+
+[Native] C++ - 2D IGUI (Based on Independent Device GUI) / 3D IGUI (Based on Independent Device GUI using C++ / OpenGL ES)
+
+Tizen NUI (Native User Interface) / C# (.Net Framework  / Xamarin.Forms) + HTML / CSS / JavaScreipt
 
 ===============
 
