@@ -35,7 +35,7 @@ more etc..
 
 ===============
 
-How to build Yocto 
+How to build Yocto (Raspberry Pi 2 / 3 / 4 More Higher Version etc)
 
 - HOB (UI)
 
