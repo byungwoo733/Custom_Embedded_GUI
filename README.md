@@ -5,6 +5,22 @@ Custom_Embedded Device GUI Sample Test [C++ (Native) / C# (.Net Framework  / Xam
 
 Tizen NUI (Native User Interface) / C# (.Net Framework  / Xamarin.Forms) + HTML / CSS / JavaScreipt
 
+=====================
+
+IDE / Online IDE:
+
+Visual Studio Code / Code::blocks / .NET FIDDLE (Online) / Repl.it (Online)
+
+---------------------
+
+.NET FIDDLE (Online) - C# (.Net Framework)
+
+https://dotnetfiddle.net/
+
+Repl.it (Online)
+
+https://replit.com/
+
 ===============
 
 Target OS Device & Target Device For Application GUI Build Test: Custom (Yocto) & Raspberry Pi 3 (B, B+) / Raspberry Pi 4 or Higher Version   
