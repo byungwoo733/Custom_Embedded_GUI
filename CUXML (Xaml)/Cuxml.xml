@@ -1,0 +1,15 @@
+<!--CUXML Xamarin.forms Version--> 
+<Page
+  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+   <StackLayout Orientation="Vertical">
+    <Label ... HorizontalOptions="Start" />
+    <Label ... HorizontalOptions="Center" />
+    <Label ... HorizontalOptions="End" />
+    <Label ... HorizontalOptions="Fill" />
+    <Label ... VerticalOptions="Start" />
+    <Label ... VerticalOptions="Center" />
+    <Label ... VerticalOptions="End" />
+    <Label ... VerticalOptions="Fill" />
+</StackLayout>
+</Page>
