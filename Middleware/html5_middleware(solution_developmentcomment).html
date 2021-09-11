@@ -1,0 +1,30 @@
+/* CUXML Middleware call using QtWebKit Module of Qt5
+Middleware Access from QML (Custom CUXML Middleware) / JavaScript
+Or, Middleware Access from HTML5
+For Plain HTML5 (Middleware Access), XMLHttpRequest / Websockets / HTTP server(or wrapper) Custom Embedded Middleware
+*/
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CUXML Middleware Demo</title>
+</head>
+<body>
+    <button onclick="cuxml.middleware.active()">Click me.</button>
+</body>
+</html>
+
+/* Middleware C++ Library / QwebView from Qt Function / HTML File / Middleware Object To JS Context
+
+Call Q_INVOKABLEs
+
+ex)
+MiddlewareObject mw;
+QwebView webview;
+
+webView.load(QUrl("main.html"));
+webView.page()->mainFrame()->addToJavaScriptWindowObject("middleware", &mw);
+*/
