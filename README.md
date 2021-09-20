@@ -1,7 +1,7 @@
 # Custom_Embedded_GUI
 Custom_Embedded Device GUI Programming Sample Test [C++ (Native) / C# (.Net Framework  / Xamarin.Forms,  Silverlight(Xaml)], HTML / CSS / JavaScreipt in C / C++ Based Embedded Devices
 
-[Native] C++ - 2D IGUI (Based on Independent Device GUI) / 3D IGUI (Based on Independent Device GUI using C++ / OpenGL ES)
+[Native] C++ - 2D IGUI (Based on Independent Device GUI) / 3D IGUI (Based on Independent Device GUI using C++ / OpenGL, OpenGL ES)
 
 Tizen NUI (Native User Interface) / C# (.Net Framework  / Xamarin.Forms) + HTML / CSS / JavaScreipt
 
