@@ -5,6 +5,8 @@ Custom_Embedded Device GUI Programming Sample Test [C++ (Native) / C# (.Net Fram
 
 Modeling & Graphical Icons: Blender etc
 
+Design Tool: Inkscape, Gimp
+
 Tizen NUI (Native User Interface) / C# (.Net Framework  / Xamarin.Forms) + HTML / CSS / JavaScreipt
 
 API:
