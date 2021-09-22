@@ -11,7 +11,7 @@ Tizen NUI (Native User Interface) / C# (.Net Framework  / Xamarin.Forms) + HTML 
 
 API:
 
-WIN32API / SFML etc
+WIN32API / SDL2, SFML etc
 
 SFML:
 
