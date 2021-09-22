@@ -1,4 +1,8 @@
 # Custom_Embedded_GUI
+
+(Notice)
+This Project is Only for Alternative Purpose about UI Development Searching , Development of Embedded Device
+
 Custom_Embedded Device GUI Programming Sample Test [C++ (Native) / C# (.Net Framework  / Xamarin.Forms,  Silverlight(Xaml)], HTML / CSS / JavaScreipt in C / C++ Based Embedded Devices
 
 [Native] C++ - 2D IGUI (Based on Independent Device GUI) / 3D IGUI (Based on Independent Device GUI using C++ / OpenGL, OpenGL ES)
@@ -17,8 +21,6 @@ SFML:
 
 https://www.sfml-dev.org/
 
-(Notice)
-This Project is Only for Alternative Purpose about UI Development Searching , Development of Embedded Device
 
 =====================
 
