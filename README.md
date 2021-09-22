@@ -17,6 +17,9 @@ SFML:
 
 https://www.sfml-dev.org/
 
+(Notice)
+This Project is Only for Alternative Purpose about UI Development Searching , Development of Embedded Device
+
 =====================
 
 IDE / Online IDE:
