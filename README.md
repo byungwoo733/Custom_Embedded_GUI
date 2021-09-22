@@ -13,6 +13,10 @@ API:
 
 WIN32API / SFML etc
 
+SFML:
+
+https://www.sfml-dev.org/
+
 =====================
 
 IDE / Online IDE:
