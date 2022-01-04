@@ -28,6 +28,8 @@ IDE / Online IDE:
 
 Visual Studio Code / Code::blocks / .NET FIDDLE (Online) / Repl.it (Online)
 
+Visual Studio Code (in Github) -> Click "."(point) on Keyboard in Code Repository
+
 ---------------------
 
 .NET FIDDLE (Online) - C# (.Net Framework)
