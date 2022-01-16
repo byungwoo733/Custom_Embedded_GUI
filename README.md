@@ -11,6 +11,8 @@ Modeling & Graphical Icons: Blender etc
 
 Theme /Skin Design Tool: Inkscape, Gimp
 
+Effect Sound Tools: LMMS (Midi), Online Sequcener (Online Midi), Sonic Pi (Lua), Audacity(Edit) 
+
 Tizen NUI (Native User Interface) / C# (.Net Framework  / Xamarin.Forms) + HTML / CSS / JavaScreipt
 
 API:
