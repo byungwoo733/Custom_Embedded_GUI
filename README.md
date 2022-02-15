@@ -9,7 +9,7 @@ Custom_Embedded Device GUI Programming Sample Test [C++ (Native) / C# (.Net Fram
 
 Modeling & Graphical Icons: Blender etc
 
-Theme /Skin Design Tool: Inkscape, Gimp, Piskel(Sprite)
+Theme /Skin Design Tool: Inkscape, Gimp, Krita, Piskel(Sprite)
 
 Effect Sound Tools: LMMS (Midi), Online Sequcener (Online Midi), Sonic Pi (Lua), Audacity(Edit) 
 
