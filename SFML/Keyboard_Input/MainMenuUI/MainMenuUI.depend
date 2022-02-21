@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1562651352 source:c:\users\rlaquddn\documents\codeblocks\sfml\practice\mainmenuui (practice)\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Menu.h"
+
+1562650772 c:\users\rlaquddn\documents\codeblocks\sfml\practice\mainmenuui (practice)\menu.h
+	<SFML/Graphics.hpp>
+
+1562651506 source:c:\users\rlaquddn\documents\codeblocks\sfml\practice\mainmenuui (practice)\menu.cpp
+	"Menu.h"
+
+1645473808 source:c:\users\kimby\documents\codeblocks\sfml\practice\mainmenuui (practice)\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Menu.h"
+
+1562650774 c:\users\kimby\documents\codeblocks\sfml\practice\mainmenuui (practice)\menu.h
+	<SFML/Graphics.hpp>
+
+1645473543 source:c:\users\kimby\documents\codeblocks\sfml\practice\mainmenuui (practice)\menu.cpp
+	"Menu.h"
+
+1645473808 source:c:\users\kimby\documents\codeblocks\sfml\mainmenuui\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Menu.h"
+
+1562650774 c:\users\kimby\documents\codeblocks\sfml\mainmenuui\menu.h
+	<SFML/Graphics.hpp>
+
+1645473543 source:c:\users\kimby\documents\codeblocks\sfml\mainmenuui\menu.cpp
+	"Menu.h"
+
