@@ -19,6 +19,10 @@ API:
 
 WIN32API / SDL2, SFML etc
 
+SDL2:
+
+https://www.libsdl.org/
+
 SFML:
 
 https://www.sfml-dev.org/
