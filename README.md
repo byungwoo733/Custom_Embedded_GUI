@@ -27,7 +27,7 @@ SFML:
 
 https://www.sfml-dev.org/
 
-C (LVGL):  
+C (LVGL) - MIT License :  
 
 https://lvgl.io/
 
