@@ -3,7 +3,7 @@
 (Notice)
 This Project is Only for Alternative Purpose about UI Development Searching , Development of Embedded Device
 
-Custom_Embedded Device GUI Programming Sample Test [C++ (Native) / C# (.Net Framework  / Xamarin.Forms / MAUI], HTML / CSS / JavaScreipt in C / C++ Based Embedded Devices
+Custom_Embedded Device GUI Programming Sample Test [C (LVGL), C++ (Native) / C# (.Net Framework  / Xamarin.Forms / MAUI], HTML / CSS / JavaScreipt in C / C++ Based Embedded Devices
 
 [Native] C++ - 2D IGUI (Based on Independent Device GUI) / 3D IGUI (Based on Independent Device GUI using C++ / OpenGL, OpenGL ES)
 
@@ -27,7 +27,9 @@ SFML:
 
 https://www.sfml-dev.org/
 
+C (LVGL):  
 
+https://lvgl.io/
 =====================
 
 IDE / Online IDE:
